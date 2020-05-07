@@ -6,7 +6,7 @@ Convert Image to Cartoon Like Image
   2. OpenCv
   
 ## Black & White convert
-simply call the function
+simply call the function (img)
   
 ## Black & White Dotted
 call the function with 2 additional parameters (img, blockSize, constant)
